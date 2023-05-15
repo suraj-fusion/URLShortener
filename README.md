@@ -1,5 +1,9 @@
-#URL Shortener Application
+URL Shortener Application
+
+This is my submission for A django Workshop for O(1) Coding Club
+
 Setup
+
 The first thing to do is to clone the repository:
 
 ```
